@@ -1,1 +1,2 @@
 This code is written by Tom
+this is the sample code written by jerry
